@@ -1,6 +1,7 @@
 Rencana Konten Baru
 -Javascript
  * membuat xxx
+ * struktur data dasar
 -PHP
 -HTML
 -Python
